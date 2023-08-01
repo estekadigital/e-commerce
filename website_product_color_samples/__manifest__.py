@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Website product color samples",
-    'summary': """Display product color options in grid view on website""",
+    'summary': """Display product color samples in product view on website""",
     'description': """Display product color options in grid view on website""",
     'author': 'Odoo Masters',
     'category': 'eCommerce',
