@@ -2,7 +2,7 @@
 {
     'name': "Website product color samples",
     'summary': """Display product color samples in product view on website""",
-    'description': """Display product color options in grid view on website""",
+    'description': """Display product color samples in product view on website""",
     'author': 'Odoo Masters',
     'category': 'eCommerce',
     'version': '14.0',
